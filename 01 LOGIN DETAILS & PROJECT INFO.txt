@@ -2,7 +2,7 @@
 
 **Database Name: dbtheatre**
 
-**Developed by Gokul Vasudeva**
+**Developed by Baduru Pavan kumar reddy**
 
 **Recommended Python Version 3.x**
 
